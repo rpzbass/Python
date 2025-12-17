@@ -4,7 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-url =  "http://192.168.30.7/4sensor.htm"
+url =  "http://<IP>/4sensor.htm"
 
 
 
