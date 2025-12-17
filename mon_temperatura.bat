@@ -1,0 +1,1 @@
+python C:\Python_projects\mon_temperatura.py
